@@ -1,0 +1,19 @@
+body {
+  padding: 50px;
+  font-family: sans-serif;
+  background-color: #fff;
+}
+
+#root {
+  display: flex;
+  justify-content: center;
+}
+
+ul li {
+  color: red;
+  list-style-type: disc;
+}
+
+ul li span {
+  color: black;
+}
